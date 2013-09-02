@@ -16,7 +16,7 @@ body {
 
 #page {
     margin: 2em auto;
-    max-width: 1430px;
+    max-width: 1230px;
 }
 
 #branding hgroup {
@@ -756,7 +756,7 @@ a:hover {
     text-transform: none;
 }
 .page-title a {
-    font-size: 12px;
+    font-size: 25px;
     font-weight: bold;
     letter-spacing: 0;
     text-transform: none;
@@ -1049,8 +1049,8 @@ object {
 }
 .singular #author-info {
     background: #f9f9f9;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
+    border-top: none;
+    border-bottom: none;
     margin: 2.2em -35.6% 0 -35.4%;
     padding: 20px 35.4%;
 }
@@ -1067,9 +1067,9 @@ object {
     background: #fff;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    -webkit-box-shadow: 0 1px 2px #bbb;
-    -moz-box-shadow: 0 1px 2px #bbb;
-    box-shadow: 0 1px 2px #bbb;
+    -webkit-box-shadow: 0 1px 2px #999;
+    -moz-box-shadow: 0 1px 2px #999;
+    box-shadow: 0 1px 2px #999;
     padding: 3px;
 }
 #author-description {
@@ -1078,7 +1078,7 @@ object {
 }
 #author-description h2 {
     color: #000;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
     margin: 5px 0 10px;
 }
